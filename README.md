@@ -4,6 +4,20 @@
 
 	在线PS/office/xmind等工具，是一个远程pc
 
+### 印章1
+
+- [在线公司印章制作](http://www.ssbbww.com/c/a6.htm)
+- [在线个人印章制作 作图大师](http://ztds.yubaibai.com.cn/yinzhang/)
+- [在线个人印章制作 改图宝](https://www.gaitubao.com/yinzhang/)
+
+### 印章2 (PS制作)
+
+- [PS制作印章](https://jingyan.baidu.com/article/54b6b9c0d41b632d593b4756.html)
+- [制作环绕圆形路径文字及使用技巧](https://jingyan.baidu.com/article/495ba841171b4538b20ede6b.html)
+- [一个点为中心画圆--制作横竖参考线画圆后拖动圆到中心](https://zhidao.baidu.com/question/1243469399337933499.html)
+- [将选区转换为路径](https://jingyan.baidu.com/article/27fa7326ade1cf46f8271f28.html)
+
+
 ### 手机拍摄身份证不正调整
 
 > 思路：在x、y、z 3个轴方向分别调整
