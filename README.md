@@ -3,6 +3,10 @@
 ### [uzer.me](https://uzer.me/z/apps)
 
 	在线PS/office/xmind等工具，是一个远程pc
+	
+### [uupoop](https://www.uupoop.com/)
+
+	在线ps工具
 
 ### 印章1
 
@@ -48,8 +52,6 @@
 4. https://www.gaoding.com
 
 	在线抠图，同Fluid Mask3效果	
-
-
 	
 ### 变清晰、消除雾霾、图片拉伸人物不变形、去水印
 
