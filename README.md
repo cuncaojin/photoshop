@@ -161,3 +161,18 @@
 1. Cmd/Ctrl+Shift+[ 将图层置于底层
 1. Cmd/Ctrl+Shift+] 将图层置于顶层
 1. Cmd/Ctrl+Shift+I 反选选区
+
+
+### 资源
+
+1. [ui-cloud](http://ui-cloud.com/) 设计素材数据库
+1. [dribbble](https://dribbble.com/) 设计平台
+1. [uplabs](https://www.uplabs.com/android) App UI 设计平台
+1. [Ostagram](https://www.ostagram.me/static_pages/lenta?last_days=1000&locale=en) 图片生成器，融合图片！
+1. [Remove Image Background](https://www.remove.bg/) 抠图
+1. [Dimensions](https://www.dimensions.guide/) —— 一个物体尺寸宝库
+1. [Pexels](https://www.pexels.com/) 免费高品质图片网
+1. [Canva](https://www.canva.com/) 很赞的在线图形设计平台
+1. [Unsplash](https://unsplash.com) 逼格相当高的摄影师图片分享平台
+1. [NASA](https://images.nasa.gov/) 美国国家宇航局官网
+1. [高清图片](https://www.pexels.com/)
