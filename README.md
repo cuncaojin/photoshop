@@ -1,12 +1,9 @@
 # photoshop
 
-### [uzer.me](https://uzer.me/z/apps)
+### 在线PS工具
 
-	在线PS/office/xmind等工具，是一个远程pc
-
-### [uupoop](https://www.uupoop.com/)
-
-	在线ps工具
+- [uzer.me](https://uzer.me/z/apps) 在线PS/office/xmind等工具，是一个远程pc
+- [uupoop](https://www.uupoop.com/) 在线ps工具
 
 ### 印章1
 
@@ -35,18 +32,10 @@
 
 ### 抠图
 
-1. 去除背景 [https://www.remove.bg/](https://www.remove.bg/)
-
-	去除背景，可扣出头发丝。只需上传图片5s内处理好即可下载，且完全免费
-	
-2. Fluid Mask3 
-
-	一款PS插件，可抠头发丝
-	
-3. https://clippingmagic.com/
-4. https://www.gaoding.com
-
-	在线抠图，同Fluid Mask3效果	
+1. [图片背景消除](https://www.remove.bg/) 在线去背景，可扣出头发丝，且完全免费
+2. [Fluid Mask3](https://www.vertustech.com/) 一款PS插件，可抠头发丝
+3. [clippingmagic](https://clippingmagic.com/) 在线抠图
+4. [稿定](https://www.gaoding.com) 在线抠图、PS、拼图等
 	
 ### 变清晰、消除雾霾、图片拉伸人物不变形、去水印
 
@@ -69,9 +58,9 @@
 
 	https://www.zhihu.com/question/37271601/answer/499070029
 
-### 高清图片编辑
+### 防止图片因缩放模糊
 
-	将图片转为智能对象再编辑
+	将图片转为智能对象后再编辑
 
 ### 证件照，多张X寸照片
 
