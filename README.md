@@ -25,10 +25,14 @@
 - [拍出的照片倾斜摆正方法](https://zhidao.baidu.com/question/354471000.html?qbl=relate_question_6)
 - [ps裁切身份证圆角](https://jingyan.baidu.com/article/a3a3f811d4ed308da2eb8a31.html)
 
-### 内容识别 去除风景中的人物
+### 去除风景中的人物
 
-1. 用选框或套索这些能产生选区的工具框选好区域
-1. 鼠标右键-填充-内容识别-确定
+- 内容识别
+
+	1. 用选框或套索这些能产生选区的工具框选好区域
+	1. 鼠标右键-填充-内容识别-确定
+
+- [Inpaint 推荐](https://www.theinpaint.com/) 在线工具，消除图中任何内容，如去除水印、人物等
 
 ### 抠图
 
@@ -168,3 +172,20 @@
 1. [Unsplash](https://unsplash.com) 逼格相当高的摄影师图片分享平台
 1. [NASA](https://images.nasa.gov/) 美国国家宇航局官网
 1. [高清图片](https://www.pexels.com/)
+1. [奇迹秀](http://www.qijishow.com/down/plug-in.html) 大量PS插件、UI相关工具集
+1. [方方格子Excel插件](http://ffcell.com/)
+1. [libre office](https://www.libreoffice.org/)
+1. [Dism++](https://www.chuyu.me/zh-Hans/) 清理工具
+1. [ASCII Animator](http://www.qqpr.com/) 用来帮你将gif动画转成ascii动画
+1. [方方格子](http://www.ffcell.com/) Excel 插件
+1. [FSCapture](https://faststone-capture.en.softonic.com/) 截图、录屏、颜色吸管、尺子
+1. [Screen To Gif](https://www.screentogif.com/) 完全免费的GIF动图录制神器
+1. [Anaconda]() 一键打包
+1. [小恐龙公文排版助手](https://gw.xkonglong.com/#/) 各类规范文本的排版，如公文排版
+1. [Bandizip](https://www.bandizip.com/) 纯净的解压缩工具
+1. [islide](https://www.islide.cc/) PPT设计神器
+1. [阿里巴巴矢量图icon](http://www.iconfont.cn/) 
+1. [幕布](https://mubu.com/login?next=/list) 团队协作思维导图
+1. [有道云笔记](http://note.youdao.com/) 团队文档
+1. [石墨文档](https://shimo.im/welcome) 团队协作办公软件
+1. [蒲公英](https://www.pgyer.com/) app内侧平台
