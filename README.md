@@ -115,6 +115,9 @@
 	红：R:255 G:0 B:0
 	白：R:255 G:255 B:255
 
+### [ADOBE PHOTOSHOP SCRIPTING](https://www.adobe.com/devnet/photoshop/scripting.html)
+
+
 ### 快捷键
 
 > 更多参考[PHOTOSHOP常用快捷键大全](https://www.douban.com/note/164279285/)
