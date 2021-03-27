@@ -36,7 +36,7 @@
 
 ### 抠图
 
-1. [收藏的抠图工具](https://github.com/cuncaojin/removebg) c盘根目录保存一张1.jpg的图片，然后以**管理员身份**运行程序
+1. [实用抠图工具——原图转1寸2寸红白蓝照片](https://github.com/cuncaojin/removebg) c盘根目录保存一张1.jpg的图片，然后以**管理员身份**运行程序
 1. [图片背景消除](https://www.remove.bg/) 在线去背景，可扣出头发丝，且完全免费
 2. [Fluid Mask3](https://www.vertustech.com/) 一款PS插件，可抠头发丝
 3. [clippingmagic](https://clippingmagic.com/) 在线抠图
