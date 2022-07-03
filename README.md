@@ -86,9 +86,11 @@
 
 - 证件照颜色RGB：
 
+	```
 	蓝：(67, 142, 219)
 	红：(255, 0, 0)
 	白：(255, 255, 255)
+	```
 
 ### [ADOBE PHOTOSHOP SCRIPTING](https://www.adobe.com/devnet/photoshop/scripting.html)
 
