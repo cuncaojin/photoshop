@@ -18,13 +18,6 @@
 - [一个点为中心画圆--制作横竖参考线画圆后拖动圆到中心](https://zhidao.baidu.com/question/1243469399337933499.html)
 - [将选区转换为路径](https://jingyan.baidu.com/article/27fa7326ade1cf46f8271f28.html)
 
-### 手机拍摄身份证不正调整
-
-> 思路：在x、y、z 3个轴方向分别调整
-
-- [拍出的照片倾斜摆正方法](https://zhidao.baidu.com/question/354471000.html?qbl=relate_question_6)
-- [ps裁切身份证圆角](https://jingyan.baidu.com/article/a3a3f811d4ed308da2eb8a31.html)
-
 ### 去除风景中的人物
 
 - 内容识别
